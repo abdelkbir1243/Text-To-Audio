@@ -40,4 +40,4 @@ https://text-to-audio-tkjtflvtrzv7uw2murvl7m.streamlit.app/
 ## 🧪 Entrainer sur Google Colab
 
 Essayez directement sur Google Colab ici :  
-👉 [🔗 Notebook Colab](https://colab.research.google.com/drive/1mHj_qb91Sc-kWnShjb6w_a5jj4hMUiDB#scrollTo=P1arcYIkUsXu&uniqifier=1)
+👉 [[🔗 Notebook Colab](https://colab.research.google.com/drive/1mHj_qb91Sc-kWnShjb6w_a5jj4hMUiDB#scrollTo=P1arcYIkUsXu&uniqifier=1)](https://colab.research.google.com/drive/1oy3UvKjZLmh6l2wOPDVKLUKrexU8o9de#scrollTo=Vys2p0gvqKsn)

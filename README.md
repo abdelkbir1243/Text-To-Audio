@@ -34,7 +34,7 @@ Lancer l'interface web localement :
 streamlit run app/streamlit_app.py
 
 ou à distance à travers:
-https://torch-text-to-audio-h8i6aap73eogkxver6uffn.streamlit.app/
+https://text-to-audio-tkjtflvtrzv7uw2murvl7m.streamlit.app/
 
 
 ## 🧪 Entrainer sur Google Colab

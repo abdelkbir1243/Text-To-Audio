@@ -1,0 +1,8 @@
+torch==2.1.2
+torchaudio==2.1.2
+pyyaml
+librosa
+streamlit
+numpy==1.23.5
+requests
+gdown
